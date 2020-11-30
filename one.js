@@ -7,3 +7,7 @@ let selectorB = 'B' //Change made in main branch
 function click(){
     console.log(`1st page clicked`)
 }
+
+function newfeature(){
+    console.log(`new feature added...`)
+}
