@@ -5,5 +5,5 @@ let selectorB = 'B'
 
 
 function click(){
-    console.log(`First page clicked`)
+    console.log(`1st page clicked`)
 }
