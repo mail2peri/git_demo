@@ -1,17 +1,17 @@
-// This is my first test
+//Updated
 
 let selectorA = 'A' //This is the change made in Develop branch
 let selectorB = 'B' //Change made in main branch
 
 
-function click(){
+function clickUpdated(){
     console.log(`1st page clicked`)
 }
 
-function newfeature(){
+function newfeatureUpdated(){
     console.log(`new feature added...`)
 }
 
 // Updated driver version
 
-// Added a line at the bottom
+//This is new line
