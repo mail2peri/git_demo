@@ -1,4 +1,4 @@
-// This is my second testlet selectorA = 'A'
+// This is my second test - UPDATED
 
 let selectorC = 'C'
 let selectorC = 'D'
@@ -16,4 +16,4 @@ function thirdfeature(){
     console.log(`Third featured added..`)
 }
 
-// This is Peri changes
+// This is Peri's change
