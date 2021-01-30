@@ -1,13 +1,8 @@
-// This is my first test
-
-let selectorA = 'A' //This is the change made in Develop branch
-let selectorB = 'B' //Change made in main branch
+//This is test 
 
 
-function click(){
-    console.log(`1st page clicked`)
-}
+//Adding another line
 
-function newfeature(){
-    console.log(`new feature added...`)
-}
+//3nd line
+
+// Making few changes but not commiting
