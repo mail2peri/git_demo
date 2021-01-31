@@ -2,7 +2,7 @@
 
 // This is my second test - UPDATED
 
-let selectorC = 'C'
+let selectorC = 'b1'
 let selectorC = 'D'
 
 
