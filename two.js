@@ -13,11 +13,4 @@ function secondFeature(){
 }
 
 
-
 // This is Peri's change
-
-// This is another change 
-// Goes on and ongraph
-
-
-// Making changes speicifc to dev
